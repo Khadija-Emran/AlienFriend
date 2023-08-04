@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400;500;600;700;800;900&display=swap');
+body{
+    background-image: url(https://e0.pxfuel.com/wallpapers/135/529/desktop-wallpaper-space-cool-space-pc-thumbnail.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+.title{
+    text-align: center;
+    color: #fff;
+    margin-top: 100px;
+    font-size: 65px;
+    font-family: 'Tektur', cursive;
+    letter-spacing: 15px;
+    text-shadow: -5px 0px 0px #0e5862;
+}
