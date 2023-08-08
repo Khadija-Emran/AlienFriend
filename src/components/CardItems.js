@@ -1,5 +1,5 @@
-import Card from './Card';
-import './cardItems.css';
+import Card from '../components/Card';
+import '../css/cardItems.css';
 const CardItems = (props) =>{
     return(
      <div className='continar'>
